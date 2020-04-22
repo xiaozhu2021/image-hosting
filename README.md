@@ -77,3 +77,6 @@
 * 您可以将现有的图片地址写入到一个txt文件中，每行一个URL地址，上传该文件。
 * 您可以将图片使用zip打包，然后上传该zip文件。
 
+
+
+http://wpa.qq.com/msgrd?v=3&uin=2530665121&site=qq&menu=yes
