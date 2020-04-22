@@ -1,8 +1,6 @@
-## Welcome to GitHub yunpan!
 
 
-
-如何上传？
+## 如何上传？
 
 1.先去官网注册账号https://www.github.com
 
@@ -12,15 +10,7 @@
 
 
 
-3.进入网站https://xiaozhu2021.github.io/yunpan/Fils/ (你上传文件名称)
-
------------
-
-举个栗子：
-
-https://xiaozhu2021.github.io/yunpan/Fils/hh.txt
-
-https://xiaozhu2021.github.io/yunpan/Fils/rr.txt
+3.进入网站https://xiaozhu2021.github.io/image-hosting/Fils/ (你上传文件名称)
 
 -----------------------------
 
@@ -29,16 +19,14 @@ https://xiaozhu2021.github.io/yunpan/Fils/rr.txt
 ∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽∽
 
 ### 文件有效期为七天！
-## 仅png、jpg、jpeg可以在线预览！！！
+## 仅png、jpg、jpeg、txt可以上传！！！
 
 
 ---------------------------
 
-
-
 #### 本站已开启色情检测，免费版账号若检测到色情图片达到5张会暂时封禁您的账号，联系管理员解封即可。
 
-#### 上传图片：可选jpg/png/bmp/webp等支持的图片格式。
+#### 上传图片：可选jpg/png图片格式。
 
 --------------------
 
