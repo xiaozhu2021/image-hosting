@@ -4,9 +4,9 @@
 
 1.先去官网注册账号https://www.github.com
 
-2.提交文件到“Flies”文件夹下
+2.提交文件到“i”文件夹下
 
-3.进入网站https://xiaozhu2021.github.io/image-hosting/Files/ (你上传文件名称)
+3.进入网站https://xiaozhu2021.github.io/image-hosting/i/ (你上传文件名称)
 
 -----------------------------
 
